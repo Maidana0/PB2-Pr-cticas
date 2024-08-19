@@ -1,0 +1,9 @@
+# Archivos de configuración de Eclipse
+.project
+.classpath
+.settings/
+bin/
+target/
+
+# Personales
+notas.txt
