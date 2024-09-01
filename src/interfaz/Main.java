@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.interfaz;
+package interfaz;
 
 public class Main {
 

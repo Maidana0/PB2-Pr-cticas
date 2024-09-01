@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.dominio;
+package salaDeCine;
 
 public class SalaDeCine {
 	public Boolean[][] butacas;
